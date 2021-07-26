@@ -1,0 +1,6 @@
+train: ../BCCD/train/images
+val: ../BCCD/valid/images
+active_learning: ../BCCD/active_learning/images
+
+nc: 3
+names: ['Platelets', 'RBC', 'WBC']
